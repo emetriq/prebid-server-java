@@ -5,6 +5,10 @@ adapters:
       mediafuse:
         meta-info:
           maintainer-email: support@mediafuse.com
+      emetriq:
+        meta-info:
+          maintainer-email: admins@emetriq.com
+          vendor-id: 213
     meta-info:
       maintainer-email: prebid@microsoft.com
       app-media-types:
